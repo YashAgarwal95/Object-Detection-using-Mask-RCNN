@@ -1,6 +1,6 @@
-# Generic-Object-pdetection
+# You Only Look Once Object Detection using PyTorch
 
-In this project as looking a generic model to do object detection.
+PyTroch Implementation of YOLO Object Detection
 Further updates coming soon
 
 
